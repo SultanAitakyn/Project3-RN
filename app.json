@@ -4,7 +4,6 @@
     "slug": "Project3",
     "platforms": [
       "ios",
-      "android",
       "web"
     ],
     "version": "1.0.0",
@@ -24,9 +23,6 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "Project3"
-    },
-    "android": {
-      "package": "Project3"
     },
     "entryPoint": "node_modules/expo/AppEntry.js"
   }
