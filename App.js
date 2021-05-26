@@ -1,4 +1,4 @@
-// Sultan Aitakyn, Alikhan Kumarov, Aidana Duisembay, Akbota Mautkazy
+// Sultan Aitakyn, Aidana Duisembay, Akbota Mautkazy
 
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
